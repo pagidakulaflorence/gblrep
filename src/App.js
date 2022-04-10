@@ -8,8 +8,9 @@ function App() {
     <h1>this is local repository</h1>
     <h1> using stash</h1>
     <h1> using reset</h1>
-    <h1> using push and pull </h1>   
+    <h1> using push  </h1>   
     <h1> this is remote repository </h1>
+    <h1> using pull </h1>  
    </div>
   );
 }
