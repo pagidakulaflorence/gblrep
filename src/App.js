@@ -4,11 +4,15 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+<<<<<<< Updated upstream
     <h1>this is local repository</h1>
     <h1> using stash</h1>
     <h1> using reset</h1>
     <h1> using push and pull </h1>
         
+=======
+      <h1> Local repository</h1>
+>>>>>>> Stashed changes
     </div>
   );
 }
