@@ -9,13 +9,8 @@ function App() {
     <h1> using stash</h1>
     <h1> using reset</h1>
     <h1> using push and pull </h1>
-    <h1> This is remote repository </h1>
-    
-        
-=======
-      <h1> Local repository</h1>
->>>>>>> Stashed changes
-    </div>
+    <h1> This is remote repository </h1>        
+   </div>
   );
 }
 
