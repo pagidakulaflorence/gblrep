@@ -7,7 +7,7 @@ function App() {
     <h1>this is local repository</h1>
     <h1> using stash</h1>
     <h1> using reset</h1>
-    <h1> using push & pull>
+    <h1> using push and pull </h1>
         
     </div>
   );
